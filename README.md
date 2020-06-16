@@ -1,1 +1,3 @@
 # MyFirstFaceCognitive
+Releasファイルをクローンすれば実行できます。
+その他のファイルはexeないで動かしているものになります。
